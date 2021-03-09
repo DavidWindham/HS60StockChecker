@@ -8,5 +8,5 @@ Run the script whenever you wanna be upset that the HS60 isn't in stock yet
 
 
 ### Notes
-You can change the variation you're looking for on line 35
+You can change the variation you're looking for on line 35  
 Don't loop it forever, or at least sleep it for an hour between checks
